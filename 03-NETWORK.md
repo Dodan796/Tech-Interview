@@ -231,6 +231,7 @@ DHCP의 유효기간은 서버 설정에 따라 달라지며, 일반적으로 �
   <summary><h3>15. SOP 정책에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> CORS 정책이 무엇인가요?</li>
+  
 <li> Preflight에 대해 설명해 주세요.</li>
 </ul>
 </details>
